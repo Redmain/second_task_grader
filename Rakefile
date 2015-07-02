@@ -8,8 +8,7 @@ desc "Make coffee"
 task :check_homework do
   counter = 0
   results = []
-  while counter < 50
-  Gmail.connect('gmail_account', 'secret_token').mailbox("HomeWork").emails.each do |email|
+  Gmail.connect('gmail_account', 'secret_token').mailbox("HomeWork2").emails.each_with_index do |email, counter|
     begin
       puts '='*80
       student_grade = []
@@ -72,7 +71,8 @@ task :check_homework do
             fifth += 4 if 0 == @manager.penalty_to_finish
           end
         end
-        Object.send(:remove_const, :LibraryManager)
+        [:LibraryManager, :Author, :Book, :PublishedBook, :Reader,
+         :ReaderWithBook].each{ |s| Object.send(:remove_const, s) }
         total = [first, second, third, fourth, fifth].sum
         student_grade << total << first << second << third << fourth << fifth
       rescue Exception => e  
@@ -85,8 +85,6 @@ task :check_homework do
       puts e.message
       puts e.backtrace.inspect  
     end
-  end
-    counter += 1
   end
   CSV.open("hw_2_grades.csv", "w") do |csv|
     results.each{ |res| csv << res }
