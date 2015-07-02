@@ -38,34 +38,39 @@ task :check_homework do
         first, second, third, fourth, fifth = 5.times.map{0}
 
         if @manager.methods.include? :penalty
-          return unless @manager.method(:penalty).parameters.count.zero?
-          first += 2
-          first += 4 if 0 == LibraryManager.new(@ivan_testenko, (DateTime.now.new_offset(0))).penalty
-          first += 4 if [779...780, 784...785].any? { |q| (q).include? @manager.penalty }
+          if @manager.method(:penalty).parameters.count.zero?
+            first += 2
+            first += 4 if 0 == LibraryManager.new(@ivan_testenko, (DateTime.now.new_offset(0))).penalty
+            first += 4 if [779...780, 784...785].any? { |q| (q).include? @manager.penalty }
+          end
         end
         if @manager.methods.include? :could_meet_each_other?
-          return unless @manager.method(:could_meet_each_other?).parameters.count == 2
-          second += 2
-          second += 4 unless @manager.could_meet_each_other? @leo_tolstoy, @noname
-          second += 4 if @manager.could_meet_each_other? @oscar_wilde, @leo_tolstoy
+          if @manager.method(:could_meet_each_other?).parameters.count == 2
+            second += 2
+            second += 4 unless @manager.could_meet_each_other? @leo_tolstoy, @noname
+            second += 4 if @manager.could_meet_each_other? @oscar_wilde, @leo_tolstoy
+          end
         end
         if @manager.methods.include? :days_to_buy
-          return unless @manager.method(:days_to_buy).parameters.count.zero?
-          third += 2 
-          third += 8 if (3..4).include? @manager.days_to_buy
+          if @manager.method(:days_to_buy).parameters.count.zero?
+            third += 2 
+            third += 8 if (3..4).include? @manager.days_to_buy
+          end
         end
         if @manager.methods.include? :transliterate
-          return unless @manager.method(:transliterate).parameters.count == 1
-          fourth += 2
-          fourth += 4 if 'Ivan Franko' == @manager.transliterate('Іван Франко')
-          fourth += 4 if 'Marko Vovchok' == @manager.transliterate('Марко Вовчок')
+          if @manager.method(:transliterate).parameters.count == 1
+            fourth += 2
+            fourth += 4 if 'Ivan Franko' == @manager.transliterate('Іван Франко')
+            fourth += 4 if 'Marko Vovchok' == @manager.transliterate('Марко Вовчок')
+          end
         end
         if @manager.methods.include? :penalty_to_finish
-          return unless @manager.method(:penalty_to_finish).parameters.count.zero?
-          fifth += 2
-          fifth += 4 if [1258...1259, 1274...1275].any? { |q| (q).include?(@manager.penalty_to_finish) }
-          @manager = LibraryManager.new(@ivan_testenko, (DateTime.now.new_offset(0) + 2.days))
-          fifth += 4 if 0 == @manager.penalty_to_finish
+          if @manager.method(:penalty_to_finish).parameters.count.zero?
+            fifth += 2
+            fifth += 4 if [1258...1259, 1274...1275].any? { |q| (q).include?(@manager.penalty_to_finish) }
+            @manager = LibraryManager.new(@ivan_testenko, (DateTime.now.new_offset(0) + 2.days))
+            fifth += 4 if 0 == @manager.penalty_to_finish
+          end
         end
         Object.send(:remove_const, :LibraryManager)
         total = [first, second, third, fourth, fifth].sum
