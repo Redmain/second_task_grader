@@ -1,0 +1,502 @@
+================================================================================
+tmp0
+undefined method `chars' for #<Author:0x00000002f072b8>
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp0/sandbox0/ruby_bursa_task_2/author.rb:21:in `transliterate'", "/home/red/ruby_project/rubybursa/second_task_grader/tmp0/sandbox0/ruby_bursa_task_2/library_manager.rb:36:in `transliterate'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:104:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp1
+1
+785
+785
+================================================================================
+tmp2
+780
+true
+4
+"Ivan Franko"
+3768
+================================================================================
+tmp3
+================================================================================
+tmp4
+================================================================================
+tmp5
+================================================================================
+tmp6
+/home/red/ruby_project/rubybursa/second_task_grader/tmp6/sandbox6/ruby_bursa_task_2/library_manager.rb:71: syntax error, unexpected keyword_end, expecting end-of-input
+["/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `require'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp7
+================================================================================
+tmp8
+30
+30
+30
+================================================================================
+tmp9
+================================================================================
+tmp10
+================================================================================
+tmp11
+/home/red/ruby_project/rubybursa/second_task_grader/tmp11/sandbox11/ruby_bursa_task_2/library_manager.rb:87: syntax error, unexpected keyword_end, expecting end-of-input
+["/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `require'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp12
+================================================================================
+tmp13
+nil can't be coerced into Fixnum
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp13/sandbox13/ruby_bursa_task_2/reader_with_book.rb:11:in `/'", "/home/red/ruby_project/rubybursa/second_task_grader/tmp13/sandbox13/ruby_bursa_task_2/reader_with_book.rb:11:in `time_to_finish'", "/home/red/ruby_project/rubybursa/second_task_grader/tmp13/sandbox13/ruby_bursa_task_2/library_manager.rb:36:in `penalty_to_finish'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `block (3 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `any?'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp14
+/home/red/ruby_project/rubybursa/second_task_grader/tmp14/sandbox14/ruby_bursa_task_2/library_manager.rb:69: syntax error, unexpected end-of-input, expecting keyword_end
+["/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `require'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp15
+Ivan Franko
+Marko Vovchok
+================================================================================
+tmp16
+undefined local variable or method `amaizing_book' for #<ReaderWithBook:0x00000003644f30>
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp16/sandbox16/ruby_bursa_task_2/reader_with_book.rb:14:in `penalty'", "/home/red/ruby_project/rubybursa/second_task_grader/tmp16/sandbox16/ruby_bursa_task_2/library_manager.rb:19:in `penalty'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:69:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp17
+================================================================================
+tmp18
+undefined local variable or method `year_of_death_first' for #<Author:0x000000035b84b8>
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp18/sandbox18/ruby_bursa_task_2/author.rb:20:in `can_meet?'", "/home/red/ruby_project/rubybursa/second_task_grader/tmp18/sandbox18/ruby_bursa_task_2/library_manager.rb:25:in `could_meet_each_other?'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:81:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp19
+================================================================================
+tmp20
+================================================================================
+tmp21
+================================================================================
+tmp22
+0
+780
+780
+false
+true
+4
+Ivan Franko
+Marko Vovchok
+1250
+1250
+0
+================================================================================
+tmp23
+================================================================================
+tmp24
+================================================================================
+tmp25
+================================================================================
+tmp26
+================================================================================
+tmp27
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting =>
+    letters = {"А": "A","а": "a","Б": "B","б"...
+                    ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+    letters = {"А": "A","а": "a","Б": "B","б": "b"...
+                         ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+    letters = {"А": "A","а": "a","Б": "B","б": "b","В"...
+                              ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...letters = {"А": "A","а": "a","Б": "B","б": "b","В": "V"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...rs = {"А": "A","а": "a","Б": "B","б": "b","В": "V","в"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...{"А": "A","а": "a","Б": "B","б": "b","В": "V","в": "v"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "A","а": "a","Б": "B","б": "b","В": "V","в": "v","Г"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...,"а": "a","Б": "B","б": "b","В": "V","в": "v","Г": "H"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "a","Б": "B","б": "b","В": "V","в": "v","Г": "H","г"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...,"Б": "B","б": "b","В": "V","в": "v","Г": "H","г": "h"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "B","б": "b","В": "V","в": "v","Г": "H","г": "h","Ґ"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...,"б": "b","В": "V","в": "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "b","В": "V","в": "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...,"В": "V","в": "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "V","в": "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+...,"в": "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ':', expecting keyword_end
+...: "v","Г": "H","г": "h","Ґ": "G",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:31: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+      "ґ": "g","Д": "D","д": "d","Е"...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+      "ґ": "g","Д": "D","д": "d","Е": "E"...
+                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+      "ґ": "g","Д": "D","д": "d","Е": "E", "е...
+                     ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+      "ґ": "g","Д": "D","д": "d","Е": "E", "е": "e...
+                          ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+...      "ґ": "g","Д": "D","д": "d","Е": "E", "е": "e", "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+... "ґ": "g","Д": "D","д": "d","Е": "E", "е": "e", "Є": "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+...: "g","Д": "D","д": "d","Е": "E", "е": "e", "Є": "Y","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...,"Д": "D","д": "d","Е": "E", "е": "e", "Є": "Y","є": "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+... "D","д": "d","Е": "E", "е": "e", "Є": "Y","є": "ie","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+..."д": "d","Е": "E", "е": "e", "Є": "Y","є": "ie","Ж": "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+..."d","Е": "E", "е": "e", "Є": "Y","є": "ie","Ж": "Zh","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...Е": "E", "е": "e", "Є": "Y","є": "ie","Ж": "Zh","ж": "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+..."E", "е": "e", "Є": "Y","є": "ie","Ж": "Zh","ж": "zh","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...е": "e", "Є": "Y","є": "ie","Ж": "Zh","ж": "zh","З": "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+..."e", "Є": "Y","є": "ie","Ж": "Zh","ж": "zh","З": "Z","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...Є": "Y","є": "ie","Ж": "Zh","ж": "zh","З": "Z","з": "z...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+..."Y","є": "ie","Ж": "Zh","ж": "zh","З": "Z","з": "z",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...є": "ie","Ж": "Zh","ж": "zh","З": "Z","з": "z",
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+...ie","Ж": "Zh","ж": "zh","З": "Z","з": "z",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+...Ж": "Zh","ж": "zh","З": "Z","з": "z",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ':', expecting keyword_end
+..."Zh","ж": "zh","З": "Z","з": "z",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:32: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+      "И": "Y","и": "y","І": "I","і"...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+      "И": "Y","и": "y","І": "I","і": "i"...
+                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+      "И": "Y","и": "y","І": "I","і": "i","ї"...
+                     ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+      "И": "Y","и": "y","І": "I","і": "i","ї": "i"...
+                          ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...      "И": "Y","и": "y","І": "I","і": "i","ї": "i","Й"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+... "И": "Y","и": "y","І": "I","і": "i","ї": "i","Й": "Y"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "Y","и": "y","І": "I","і": "i","ї": "i","Й": "Y","й"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"и": "y","І": "I","і": "i","ї": "i","Й": "Y","й": "i"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "y","І": "I","і": "i","ї": "i","Й": "Y","й": "i","К"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"І": "I","і": "i","ї": "i","Й": "Y","й": "i","К": "K"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "I","і": "i","ї": "i","Й": "Y","й": "i","К": "K","к"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"і": "i","ї": "i","Й": "Y","й": "i","К": "K","к": "k"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "i","ї": "i","Й": "Y","й": "i","К": "K","к": "k","Л"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"ї": "i","Й": "Y","й": "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "i","Й": "Y","й": "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"Й": "Y","й": "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "Y","й": "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+...,"й": "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ':', expecting keyword_end
+...: "i","К": "K","к": "k","Л": "L",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:33: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+      "л": "l","М": "M","м": "m","Н"...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+      "л": "l","М": "M","м": "m","Н": "N"...
+                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+      "л": "l","М": "M","м": "m","Н": "N","н"...
+                     ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+      "л": "l","М": "M","м": "m","Н": "N","н": "n"...
+                          ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...      "л": "l","М": "M","м": "m","Н": "N","н": "n","О"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+... "л": "l","М": "M","м": "m","Н": "N","н": "n","О": "O"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "l","М": "M","м": "m","Н": "N","н": "n","О": "O","о"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"М": "M","м": "m","Н": "N","н": "n","О": "O","о": "o"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "M","м": "m","Н": "N","н": "n","О": "O","о": "o","П"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"м": "m","Н": "N","н": "n","О": "O","о": "o","П": "P"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "m","Н": "N","н": "n","О": "O","о": "o","П": "P","п"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"Н": "N","н": "n","О": "O","о": "o","П": "P","п": "p"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "N","н": "n","О": "O","о": "o","П": "P","п": "p","Р"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"н": "n","О": "O","о": "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "n","О": "O","о": "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"О": "O","о": "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "O","о": "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+...,"о": "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ':', expecting keyword_end
+...: "o","П": "P","п": "p","Р": "R",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:34: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+      "р": "r","С": "S","с": "s","Т"...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+      "р": "r","С": "S","с": "s","Т": "T"...
+                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+      "р": "r","С": "S","с": "s","Т": "T","т"...
+                     ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+      "р": "r","С": "S","с": "s","Т": "T","т": "t"...
+                          ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+...      "р": "r","С": "S","с": "s","Т": "T","т": "t", "У...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+... "р": "r","С": "S","с": "s","Т": "T","т": "t", "У": "U...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+...: "r","С": "S","с": "s","Т": "T","т": "t", "У": "U","у...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+...,"С": "S","с": "s","Т": "T","т": "t", "У": "U","у": "u...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+...: "S","с": "s","Т": "T","т": "t", "У": "U","у": "u","Ф...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+...,"с": "s","Т": "T","т": "t", "У": "U","у": "u","Ф": "F...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+... "s","Т": "T","т": "t", "У": "U","у": "u","Ф": "F","ф"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+..."Т": "T","т": "t", "У": "U","у": "u","Ф": "F","ф": "f"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+... "T","т": "t", "У": "U","у": "u","Ф": "F","ф": "f","Х"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+..."т": "t", "У": "U","у": "u","Ф": "F","ф": "f","Х": "Kh...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+... "t", "У": "U","у": "u","Ф": "F","ф": "f","Х": "Kh",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+... "У": "U","у": "u","Ф": "F","ф": "f","Х": "Kh",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+...: "U","у": "u","Ф": "F","ф": "f","Х": "Kh",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+...,"у": "u","Ф": "F","ф": "f","Х": "Kh",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ':', expecting keyword_end
+...: "u","Ф": "F","ф": "f","Х": "Kh",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:35: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+      "х": "kh","Ц": "Ts","ц": 'ts',"...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+      "х": "kh","Ц": "Ts","ц": 'ts',"Ч": "...
+                 ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+      "х": "kh","Ц": "Ts","ц": 'ts',"Ч": "Ch","...
+                      ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+      "х": "kh","Ц": "Ts","ц": 'ts',"Ч": "Ch","ч": "...
+                            ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...    "х": "kh","Ц": "Ts","ц": 'ts',"Ч": "Ch","ч": "ch","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...х": "kh","Ц": "Ts","ц": 'ts',"Ч": "Ch","ч": "ch","Ш": "...
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...kh","Ц": "Ts","ц": 'ts',"Ч": "Ch","ч": "ch","Ш": "Sh","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...Ц": "Ts","ц": 'ts',"Ч": "Ch","ч": "ch","Ш": "Sh","ш": "...
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...Ts","ц": 'ts',"Ч": "Ch","ч": "ch","Ш": "Sh","ш": "sh","...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...ц": 'ts',"Ч": "Ch","ч": "ch","Ш": "Sh","ш": "sh","Щ": "...
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...ts',"Ч": "Ch","ч": "ch","Ш": "Sh","ш": "sh","Щ": "Shch"...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...Ч": "Ch","ч": "ch","Ш": "Sh","ш": "sh","Щ": "Shch","щ":...
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...Ch","ч": "ch","Ш": "Sh","ш": "sh","Щ": "Shch","щ": "shc...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...ч": "ch","Ш": "Sh","ш": "sh","Щ": "Shch","щ": "shch",
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...ch","Ш": "Sh","ш": "sh","Щ": "Shch","щ": "shch",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+...: "Sh","ш": "sh","Щ": "Shch","щ": "shch",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ':', expecting keyword_end
+...","ш": "sh","Щ": "Shch","щ": "shch",
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:36: syntax error, unexpected ',', expecting keyword_end
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+      "Ю": "Y","ю": "iu","Я": "Ya","...
+           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ',', expecting keyword_end
+      "Ю": "Y","ю": "iu","Я": "Ya","я": "...
+                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+      "Ю": "Y","ю": "iu","Я": "Ya","я": "ia", ...
+                     ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ',', expecting keyword_end
+      "Ю": "Y","ю": "iu","Я": "Ya","я": "ia", "ь": ...
+                           ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+...     "Ю": "Y","ю": "iu","Я": "Ya","я": "ia", "ь": "", "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ',', expecting keyword_end
+...Ю": "Y","ю": "iu","Я": "Ya","я": "ia", "ь": "", "'": ""...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+..."Y","ю": "iu","Я": "Ya","я": "ia", "ь": "", "'": "", "...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ',', expecting keyword_end
+...ю": "iu","Я": "Ya","я": "ia", "ь": "", "'": "", "’": ""}
+...                                ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+...u","Я": "Ya","я": "ia", "ь": "", "'": "", "’": ""}
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+..."Ya","я": "ia", "ь": "", "'": "", "’": ""}
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp27/sandbox27/ruby_bursa_task_2/library_manager.rb:37: syntax error, unexpected ':', expecting keyword_end
+..."ia", "ь": "", "'": "", "’": ""}
+...                               ^
+["/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `require'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp28
+================================================================================
+tmp29
+================================================================================
+tmp30
+================================================================================
+tmp31
+================================================================================
+tmp32
+/home/red/ruby_project/rubybursa/second_task_grader/tmp32/sandbox32/ruby_bursa_task_2/library_manager.rb:19: syntax error, unexpected *, expecting keyword_do or '{' or '('
+...rs_overdue * hours_to_fifnish *0.001
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp32/sandbox32/ruby_bursa_task_2/library_manager.rb:20: syntax error, unexpected *, expecting keyword_do or '{' or '('
+...0003 * reader_with_book_price *reader_with_book.book_pages_q...
+...                               ^
+/home/red/ruby_project/rubybursa/second_task_grader/tmp32/sandbox32/ruby_bursa_task_2/library_manager.rb:20: syntax error, unexpected '*', expecting :: or '[' or '.'
+...with_book.book_pages_quanlity * hours_overdue
+...                               ^
+["/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `require'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:51:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+================================================================================
+tmp33
+================================================================================
+tmp34
+================================================================================
+tmp35
+================================================================================
+tmp36
+undefined local variable or method `penalty_per_hour' for #<LibraryManager:0x00000001b56fc0>
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp36/sandbox36/ruby_bursa_task_2/library_manager.rb:38:in `days_to_buy'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:93:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
+undefined local variable or method `penalty_per_hour' for #<LibraryManager:0x00000001b56fc0>
+["/home/red/ruby_project/rubybursa/second_task_grader/tmp36/sandbox36/ruby_bursa_task_2/library_manager.rb:74:in `penalty_to_finish'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `block (3 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `any?'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:116:in `block (2 levels) in <top (required)>'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `each'", "/home/red/ruby_project/rubybursa/second_task_grader/Rakefile:42:in `block in <top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `call'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:240:in `block in execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:235:in `execute'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/red/.rvm/rubies/ruby-2.1.5/lib/ruby/2.1.0/monitor.rb:211:in `mon_synchronize'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/task.rb:165:in `invoke'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:150:in `invoke_task'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `each'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:106:in `block in top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:115:in `run_with_threads'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:100:in `top_level'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:78:in `block in run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/lib/rake/application.rb:75:in `run'", "/home/red/.rvm/gems/ruby-2.1.5/gems/rake-10.4.2/bin/rake:33:in `<top (required)>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `load'", "/home/red/.rvm/gems/ruby-2.1.5/bin/rake:23:in `<main>'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `eval'", "/home/red/.rvm/gems/ruby-2.1.5/bin/ruby_executable_hooks:15:in `<main>'"]
