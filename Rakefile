@@ -45,7 +45,6 @@ task :check_homework do
       puts '=' * 80
       puts dir
       path = "./#{dir}/sandbox#{counter}/ruby_bursa_task_2/#{file_name}.rb"
-      # text = File.read(path)
       # replace = text.gsub(/require '(\.\/)([^']*)'/, "require_relative \'\2\'")
       # File.open(path, "w") {|file| file.puts replace}
       require path if File.exist?(path)
