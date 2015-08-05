@@ -121,8 +121,12 @@ task :check_homework do
         puts e.message
         puts e.backtrace.inspect
       end
-      [:LibraryManager, :Author, :Book, :PublishedBook, :Reader,
-       :ReaderWithBook].each{ |s| Object.send(:remove_const, s) }
+      Object.send(:remove_const, 'LibraryManager') if defined? LibraryManager
+      Object.send(:remove_const, 'Author') if defined? Author
+      Object.send(:remove_const, 'Book') if defined? Book
+      Object.send(:remove_const, 'PublishedBook') if defined? PublishedBook
+      Object.send(:remove_const, 'Reader') if defined? Reader
+      Object.send(:remove_const, 'ReaderWithBook') if defined? ReaderWithBook
       total = [first, second, third, fourth, fifth].sum
       student_grade = []
       student_grade << counter << total << first << second << third << fourth << fifth
@@ -131,6 +135,12 @@ task :check_homework do
       puts e.message
       puts e.backtrace.inspect  
     end
+    Object.send(:remove_const, 'LibraryManager') if defined? LibraryManager
+    Object.send(:remove_const, 'Author') if defined? Author
+    Object.send(:remove_const, 'Book') if defined? Book
+    Object.send(:remove_const, 'PublishedBook') if defined? PublishedBook
+    Object.send(:remove_const, 'Reader') if defined? Reader
+    Object.send(:remove_const, 'ReaderWithBook') if defined? ReaderWithBook
   end
   CSV.open("hw_2_grades.csv", "a+") do |csv|
     results.each{ |res| csv << res }
